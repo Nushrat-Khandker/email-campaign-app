@@ -1,0 +1,16 @@
+{
+  "name": "email-campaign-dashboard",
+  "version": "1.0.0",
+  "description": "A simple email campaign dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "@supabase/supabase-js": "^1.11.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
